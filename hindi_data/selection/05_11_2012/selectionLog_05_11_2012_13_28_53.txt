@@ -1,0 +1,10 @@
+Date: 05_11_2012_13_28_53
+locale : hi
+mysqlHost : localhost
+mysqlUser : root
+mysqlPasswd : 01412503301
+mysqlDB : wiki123
+selectedSentencesTable name : test
+tableDescription : Testing table for selected sentences. Wikipedia locale:  
+stop criterion : numSentences 90 simpleDiphones simpleProsody 
+logCoverageDevelopmentverbose

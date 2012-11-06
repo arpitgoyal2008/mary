@@ -1,0 +1,11 @@
+Date: 05_11_2012_21_52_19
+locale : hi
+mysqlHost : localhost
+mysqlUser : root
+mysqlPasswd : 01412503301
+mysqlDB : wiki123
+FeatDefFileName : /home/arpit/Desktop/MARY/hindi/hi_featureDefinition.txt
+selectedSentencesTable name : test
+tableDescription : Testing table for selected sentences. Wikipedia locale: hi
+stop criterion : numSentences 90 simpleDiphones simpleProsody 
+logCoverageDevelopmentverbose

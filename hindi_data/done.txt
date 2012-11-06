@@ -1,0 +1,6 @@
+xml_splits/page1.xml
+xml_splits/page5.xml
+xml_splits/page2.xml
+xml_splits/page3.xml
+xml_splits/page6.xml
+xml_splits/page4.xml
